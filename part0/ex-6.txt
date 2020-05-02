@@ -1,0 +1,5 @@
+browser->server HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa {content: "Za warudo oba hebun", date: "2020-05-02T02:19:54.856Z"}
+server->browser {"message":"note created"}
+
+note:
+page doesn't refresh 
